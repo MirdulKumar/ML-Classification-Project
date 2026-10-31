@@ -1,0 +1,23 @@
+# Core data processing
+pandas
+numpy
+
+# Machine Learning
+scikit-learn
+
+# Data visualization
+matplotlib
+seaborn
+
+# Model serialization
+joblib
+
+# Interactive web application
+streamlit
+
+# Dataset download from UCI
+ucimlrepo
+
+# Jupyter Notebook support
+jupyter
+ipykernel
