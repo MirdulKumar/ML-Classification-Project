@@ -1,23 +1,16 @@
-# Core data processing
-pandas
-numpy
-
-# Machine Learning
-scikit-learn
-
-# Data visualization
-matplotlib
-seaborn
-
-# Model serialization
-joblib
 
 # Interactive web application
-streamlit
+streamlit==1.66.1
 
-# Dataset download from UCI
-ucimlrepo
+# Data processing
+pandas==3.1.0
+numpy
 
-# Jupyter Notebook support
-jupyter
-ipykernel
+# Machine learning
+scikit-learn==1.9.1
+
+# Data visualization
+matplotlib==3.11.2
+
+# Model serialization
+joblib==1.6.0
