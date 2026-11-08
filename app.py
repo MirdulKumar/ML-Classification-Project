@@ -354,7 +354,7 @@ if uploaded_csv is None:
 
     st.dataframe(
         feature_preview,
-        use_container_width=True,
+        use_container_width="stretch",
         hide_index=True
     )
 
