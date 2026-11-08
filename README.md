@@ -223,7 +223,6 @@ Open the local URL displayed in the terminal to access the application.
 
 - **GitHub Repository:** https://github.com/MirdulKumar/ML-Classification-Project
 - **Live Streamlit Application:** To be added after deployment.
-- **BITS Virtual Lab Execution Screenshot:** To be included in the final assignment submission PDF.
 
 ## 14. Conclusion
 
